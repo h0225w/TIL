@@ -3,3 +3,4 @@
 
 ## ETC
 - [플로우차트](Etc/FlowChart.md)
+- [비즈니스 로직](Etc/BusinessLosic.md)
