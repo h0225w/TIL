@@ -3,7 +3,7 @@
 ## 1. JDK 설치
 ```
 # 설치 가능 버전 확인
-brew search sdk
+brew search jdk
 
 # 설치
 brew install --cask [버전]
